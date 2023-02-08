@@ -1,0 +1,12 @@
+*.zip
+*.rar
+*.docx
+
+/Face_Database/*
+!/Face_Database/KobeBryant
+!/Face_Database/s1
+!/Face_Database/s18
+
+# eigenface vector data
+/FaceDB_Generate_Matlab/7_15Labview人脸识别DB.mat
+/FaceDB_Generate_Matlab/FaceDetect_DB_7_15.mat
