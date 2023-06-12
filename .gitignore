@@ -1,6 +1,7 @@
 *.zip
 *.rar
 *.docx
+*.pptx
 
 /Face_Database/*
 !/Face_Database/KobeBryant
